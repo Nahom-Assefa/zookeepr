@@ -153,6 +153,24 @@
         "hungry"
       ],
       "id": "15"
+    },
+    {
+      "name": "Nahom",
+      "species": "Human",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "16"
+    },
+    {
+      "name": "Derek",
+      "species": "lion",
+      "diet": "chicken",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "17"
     }
   ]
 }
