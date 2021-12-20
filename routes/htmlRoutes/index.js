@@ -1,7 +1,7 @@
 const path = require('path');
 const router = require('express').Router();
 
-
+//router.use(express.static('../../public'));
 
 
 router.get('/', (req, res) => {
